@@ -1,0 +1,37 @@
+<menu>
+	<food>
+		<name>Pizza</name>
+		<prices>$20</prices>
+		<calorie>560</calorie>
+	</food>
+	<food>
+		<name>Hotdog</name>
+		<prices>$12</prices>
+		<calorie>380</calorie>
+	</food>
+	<food>
+		<name>Hamburger</name>
+		<prices>$12</prices>
+		<calorie>260</calorie>
+	</food>
+	<food>
+		<name>Spaghetti</name>
+		<prices>$30</prices>
+		<calorie>490</calorie>
+	</food>
+	<food>
+		<name>Thai Noodle</name>
+		<prices>$15</prices>
+		<calorie>280</calorie>
+	</food>
+	<food>
+		<name>French Fried</name>
+		<prices>$15</prices>
+		<calorie>420</calorie>
+	</food>
+	<food>
+		<name>ข้าวเหนียวมะม่วง</name>
+		<prices>$30</prices>
+		<calorie>700</calorie>
+	</food>
+</menu>
